@@ -32,7 +32,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-create your project and then follow the below instructions in the **install** part of this file
+First create your project and then follow the steps of the **install** part of this file.
 
 ### Tech Stack <a name="tech-stack"></a>
 
