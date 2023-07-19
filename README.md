@@ -28,7 +28,7 @@
 
 # 📖 webpack-setup <a name="about-project"></a>
 
-**webpack-setup** is learning project to setup webpack for projects.
+**webpack-setup** is a learning project to setup webpack for projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
